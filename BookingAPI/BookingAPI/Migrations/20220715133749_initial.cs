@@ -85,7 +85,7 @@ namespace BookingAPI.Migrations
                 values: new object[,]
                 {
                     { 11, 2, "Cancun", 1 },
-                    { 12, 1, "Cancun", 0 }
+                    { 12, 1, "Palace", 0 }
                 });
 
             migrationBuilder.CreateIndex(
